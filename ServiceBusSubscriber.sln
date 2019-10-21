@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusSubscriber", "ServiceBusSubscriber\ServiceBusSubscriber.csproj", "{B73D6F07-B81B-4F2B-AF1C-C63698DCC14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73D6F07-B81B-4F2B-AF1C-C63698DCC14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73D6F07-B81B-4F2B-AF1C-C63698DCC14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73D6F07-B81B-4F2B-AF1C-C63698DCC14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73D6F07-B81B-4F2B-AF1C-C63698DCC14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF2B4AD-7684-4CE5-A507-05B396734CB8}
+	EndGlobalSection
+EndGlobal
